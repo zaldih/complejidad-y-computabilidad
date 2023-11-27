@@ -1,0 +1,4 @@
+---
+tags:
+  - máquina-de-turing
+---
